@@ -1,27 +1,38 @@
-# 👋 Hi, I'm Rashica
+## Hi, I'm Rashica 👋
 
-I'm a full stack developer in training, currently learning through Scaler's intensive program.  
-I'm building real-world web apps using the **MERN stack**, strengthening my **DSA**, and diving deep into **system design** (LLD/HLD) to become a strong software engineer.
+🎯 Aspiring SDET | QA Automation Engineer  
+💻 Focused on building real-world test automation frameworks  
 
-I'm actively looking for **SDE-1 roles or internships** at **startups or tech companies** where I can apply my skills, solve real-world problems, and grow with a fast-moving team.
+---
 
 ### 🔧 Tech Stack
-- HTML, CSS, JavaScript
-- React.js, Node.js, Express.js, MongoDB
-- SQL, Git, GitHub
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- REST Assured (API Testing)
+- Git & GitHub
+- Manual Testing Fundamentals
 
-### 📂 My Projects
-- 🔗 [Netflix Clone](#)
-- 🔗 [BookMyShow Clone](#)
-- 🔗 [To-Do App](#)
+---
 
-### 🎯 Current Goal
-Crack an SDE internship or entry-level SDE-1 role by April 2026 🚀  
-Build a strong portfolio of projects and system design knowledge.
+### 🧪 What I'm Working On
+- Building a Selenium automation framework using Page Object Model
+- Practicing API automation with REST Assured
+- Writing clean, maintainable test cases
+- Understanding real-world QA processes
 
-### 🧠 Learning Journey
-📚 Daily progress on DSA, full stack development & system design  
-💡 Building projects, documenting my journey, and growing consistently
+---
 
-### 💌 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/rashica-a-23142a251/) | [Resume](#)
+### 📂 Featured Projects
+🔹 Selenium Automation Framework – *coming soon*  
+🔹 REST API Testing Project – *coming soon*  
+
+---
+
+### 📈 Goal
+To transition into an **SDET / QA Automation Engineer** role by building strong automation projects and testing fundamentals.
+
+---
+
+📫 GitHub is actively maintained as I learn and build.
