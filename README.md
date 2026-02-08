@@ -1,38 +1,47 @@
-## Hi, I'm Rashica 👋
+Hi, I'm Rashica 👋  
+🎯 Aspiring SDET | QA Automation Learner  
 
-🎯 Aspiring SDET | QA Automation Engineer  
-💻 Focused on building real-world test automation frameworks  
-
----
-
-### 🔧 Tech Stack
-- Java
-- Selenium WebDriver
-- TestNG
-- Maven
-- REST Assured (API Testing)
-- Git & GitHub
-- Manual Testing Fundamentals
+I’m currently transitioning into an SDET role by building strong fundamentals in
+testing, automation, and problem-solving through hands-on practice.
 
 ---
 
-### 🧪 What I'm Working On
-- Building a Selenium automation framework using Page Object Model
-- Practicing API automation with REST Assured
-- Writing clean, maintainable test cases
-- Understanding real-world QA processes
+🔧 Tech & Tools (Learning + Using)
+• Java (basics for automation)
+• Git & GitHub  
+• Manual Testing Fundamentals  
+• Selenium WebDriver (in progress)  
+• TestNG (in progress)  
+• Maven (in progress)  
+• REST Assured – API Testing (planned)  
 
 ---
 
-### 📂 Featured Projects
-🔹 Selenium Automation Framework – *coming soon*  
-🔹 REST API Testing Project – *coming soon*  
+🧪 What I'm Currently Working On
+• Understanding Git & GitHub workflows  
+• Writing daily learning notes with real commits  
+• Strengthening testing fundamentals (test cases, bug analysis)  
+• Practicing DSA basics for logical thinking  
+• Gradually building automation skills step-by-step  
 
 ---
 
-### 📈 Goal
-To transition into an **SDET / QA Automation Engineer** role by building strong automation projects and testing fundamentals.
+📂 Learning Repositories
+🔹 sdet-learning-notes  
+Daily notes covering Git, testing theory, automation concepts, and DSA practice  
+
+🔹 automation-practice (upcoming)  
+Hands-on Selenium automation exercises and small test scenarios  
+
+🔹 api-testing-basics (upcoming)  
+Beginner-level REST API testing using REST Assured  
 
 ---
 
-📫 GitHub is actively maintained as I learn and build.
+📈 Goal
+To become job-ready for an SDET / QA Automation Engineer role by building
+strong fundamentals, consistent projects, and real-world testing understanding.
+
+---
+
+📫 This GitHub is actively maintained as I learn and grow.
