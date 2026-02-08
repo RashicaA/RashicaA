@@ -7,6 +7,7 @@ testing, automation, and problem-solving through hands-on practice.
 ---
 
 🔧 Tech & Tools (Learning + Using)
+
 • Java (basics for automation)
 • Git & GitHub  
 • Manual Testing Fundamentals  
@@ -18,6 +19,7 @@ testing, automation, and problem-solving through hands-on practice.
 ---
 
 🧪 What I'm Currently Working On
+
 • Understanding Git & GitHub workflows  
 • Writing daily learning notes with real commits  
 • Strengthening testing fundamentals (test cases, bug analysis)  
@@ -27,6 +29,7 @@ testing, automation, and problem-solving through hands-on practice.
 ---
 
 📂 Learning Repositories
+
 🔹 sdet-learning-notes  
 Daily notes covering Git, testing theory, automation concepts, and DSA practice  
 
