@@ -48,12 +48,12 @@ I aim to transition into an **SDET role** in the coming months by adding automat
 * Covered positive, negative & edge cases
 * Input validation & error handling
 
-🔹 **E-commerce Testing – SauceDemo (Planned)**
+🔹 **E-commerce Testing – SauceDemo**
 
 * End-to-end testing of login, cart & checkout
 * Product sorting and UI validation
 
-🔹 **API Testing (Planned)**
+🔹 **API Testing**
 
 * Basic API testing using Postman
 * Status code and response validation
