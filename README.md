@@ -1,79 +1,75 @@
-# Hi, I'm Rashica 👋  
-### QA Professional | SDET & QA Automation Engineer Track
+# Hi, I'm Rashica 👋
 
-I am a QA professional transitioning into a **Software Development Engineer in Test (SDET)** role.  
-I am building strong foundations in **software testing, test automation, and problem-solving**
-through hands-on practice, structured learning, and real GitHub projects.
+## 👩‍💻 Aspiring Manual QA Engineer (Future SDET)
 
----
+I am currently preparing for **Manual QA roles** by building real-world testing projects and strengthening my testing fundamentals.
 
-## 🛠️ Skills & Tools
-
-### Programming & Fundamentals
-- Java (Core Java for automation)
-- Data Structures & Algorithms (Arrays, Strings, Hashing, Time & Space Complexity)
-
-### Version Control
-- Git (clone, add, commit, push, branching basics)
-- GitHub (repositories, README documentation, commits, collaboration)
-
-### Testing Fundamentals
-- Manual Testing
-- SDLC & STLC
-- Test Case Design
-- Bug Life Cycle
-- Functional, Regression & Smoke Testing
-
-### Automation & Frameworks (Learning)
-- Selenium WebDriver
-- TestNG
-- Maven
-- Automation Framework Basics (Page Object Model)
-
-### API Testing (Planned)
-- REST API Testing
-- REST Assured
-- HTTP methods, status codes, API validation
+I aim to transition into an **SDET role** in the coming months by adding automation and API testing skills.
 
 ---
 
-## 🧪 Current Focus
+## 🧪 What I’m Doing
 
-- Writing **daily SDET learning notes** with meaningful Git commits
-- Practicing **manual testing concepts** and real test scenarios
-- Strengthening **DSA fundamentals** for logical thinking
-- Learning **Selenium automation step-by-step**
-- Understanding **test automation frameworks and best practices**
-
----
-
-## 📂 Projects & Learning Repositories
-
-🔹 **sdet-prep-notes**  
-Structured notes on Git, GitHub, Manual Testing, Automation concepts, and DSA  
-> Demonstrates consistency, documentation skills, and Git workflow knowledge
-
-🔹 **automation-practice** *(upcoming)*  
-Selenium WebDriver automation using Java, TestNG, and Maven
-
-🔹 **api-testing-basics** *(upcoming)*  
-Beginner REST API testing using REST Assured
+* Writing structured test cases for real applications
+* Practicing functional and exploratory testing
+* Understanding real-world bug scenarios
+* Building hands-on QA projects
 
 ---
 
-## 🎯 Career Objective
+## 🛠 Skills & Tools
 
-To move into an **SDET / QA Automation Engineer role** by combining:
-- Strong QA and testing fundamentals  
-- Automation skills with Java and Selenium  
-- Logical problem-solving and clean GitHub-based project work  
+### Testing
+
+* Manual Testing
+* Test Case Design
+* Bug Life Cycle
+* Functional, Regression & Smoke Testing
+* SDLC & STLC
+
+### Tools
+
+* Microsoft Excel
+* Git & GitHub
+
+### Learning Next
+
+* Selenium WebDriver (Java)
+* TestNG & Maven
+* REST API Testing (Postman)
 
 ---
 
-## 📫 Contact
+## 📂 Projects
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rashica-a-23142a251/
+🔹 **Login System Testing**
+
+* Test cases for login functionality
+* Covered positive, negative & edge cases
+* Input validation & error handling
+
+🔹 **E-commerce Testing – SauceDemo (Planned)**
+
+* End-to-end testing of login, cart & checkout
+* Product sorting and UI validation
+
+🔹 **API Testing (Planned)**
+
+* Basic API testing using Postman
+* Status code and response validation
 
 ---
 
-📌 This GitHub profile is actively updated as part of my SDET preparation journey.
+## 🎯 Career Goal
+
+To start as a **Manual QA Engineer** and grow into an **SDET** by combining testing expertise with automation skills.
+
+---
+
+## 📫 Connect with me
+
+💼 LinkedIn: https://www.linkedin.com/in/rashica-a-23142a251/
+
+---
+
+📌 This profile will be updated as I complete more QA projects.
